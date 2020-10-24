@@ -1,2 +1,3 @@
 ola
 aerywsey
+probar que susede cuando regreso a un comid anterior y luego modifico algo y una bes echo eso guardo
